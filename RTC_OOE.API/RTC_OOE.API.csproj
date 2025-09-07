@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\RTC_OEE_Management_API.Model\RTC_OEE_Management_API.Models.csproj" />
     <ProjectReference Include="..\RTC_OEE_Management_API.Repo\RTC_OEE_Management_API.Repo.csproj" />
   </ItemGroup>
 
